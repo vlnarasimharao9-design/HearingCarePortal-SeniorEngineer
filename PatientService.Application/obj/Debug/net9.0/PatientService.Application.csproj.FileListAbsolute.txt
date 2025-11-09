@@ -9,3 +9,8 @@ V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Application\obj\Debug\net
 V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Application\obj\Debug\net9.0\refint\PatientService.Application.dll
 V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Application\obj\Debug\net9.0\PatientService.Application.pdb
 V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Application\obj\Debug\net9.0\ref\PatientService.Application.dll
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Application\obj\Debug\net9.0\PatientService.Application.sourcelink.json
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Application\bin\Debug\net9.0\PatientService.Domain.dll
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Application\bin\Debug\net9.0\PatientService.Domain.pdb
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Application\obj\Debug\net9.0\PatientService.Application.csproj.AssemblyReference.cache
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Application\obj\Debug\net9.0\PatientS.11D8715A.Up2Date
