@@ -1,0 +1,11 @@
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\bin\Debug\net9.0\AppointmentService.Domain.deps.json
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\bin\Debug\net9.0\AppointmentService.Domain.dll
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\bin\Debug\net9.0\AppointmentService.Domain.pdb
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\obj\Debug\net9.0\AppointmentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\obj\Debug\net9.0\AppointmentService.Domain.AssemblyInfoInputs.cache
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\obj\Debug\net9.0\AppointmentService.Domain.AssemblyInfo.cs
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\obj\Debug\net9.0\AppointmentService.Domain.csproj.CoreCompileInputs.cache
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\obj\Debug\net9.0\AppointmentService.Domain.dll
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\obj\Debug\net9.0\refint\AppointmentService.Domain.dll
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\obj\Debug\net9.0\AppointmentService.Domain.pdb
+V:\HAM\HearingCarePortal-SeniorEngineer\AppointmentService.Domain\obj\Debug\net9.0\ref\AppointmentService.Domain.dll

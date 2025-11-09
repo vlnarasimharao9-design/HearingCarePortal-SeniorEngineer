@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtcT2rPODPw=",
+  "success": true,
+  "projectFilePath": "V:\\HAM\\HearingCarePortal-SeniorEngineer\\AppointmentService.API\\AppointmentService.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikhil Chakravarthy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\Nikhil Chakravarthy\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

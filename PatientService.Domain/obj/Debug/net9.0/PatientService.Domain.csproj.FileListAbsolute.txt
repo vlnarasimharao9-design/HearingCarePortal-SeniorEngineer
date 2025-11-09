@@ -1,0 +1,11 @@
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\bin\Debug\net9.0\PatientService.Domain.deps.json
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\bin\Debug\net9.0\PatientService.Domain.dll
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\bin\Debug\net9.0\PatientService.Domain.pdb
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\obj\Debug\net9.0\PatientService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\obj\Debug\net9.0\PatientService.Domain.AssemblyInfoInputs.cache
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\obj\Debug\net9.0\PatientService.Domain.AssemblyInfo.cs
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\obj\Debug\net9.0\PatientService.Domain.csproj.CoreCompileInputs.cache
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\obj\Debug\net9.0\PatientService.Domain.dll
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\obj\Debug\net9.0\refint\PatientService.Domain.dll
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\obj\Debug\net9.0\PatientService.Domain.pdb
+V:\HAM\HearingCarePortal-SeniorEngineer\PatientService.Domain\obj\Debug\net9.0\ref\PatientService.Domain.dll
