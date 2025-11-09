@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\HAM\\HearingCarePortal-SeniorEngineer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28A3946F-A604-4393-B10D-4CFB64F3D64A}|PatientService.Domain\\PatientService.Domain.csproj|v:\\ham\\hearingcareportal-seniorengineer\\patientservice.domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A3946F-A604-4393-B10D-4CFB64F3D64A}|PatientService.Domain\\PatientService.Domain.csproj|solutionrelative:patientservice.domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A3946F-A604-4393-B10D-4CFB64F3D64A}|PatientService.Domain\\PatientService.Domain.csproj|v:\\ham\\hearingcareportal-seniorengineer\\patientservice.domain\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A3946F-A604-4393-B10D-4CFB64F3D64A}|PatientService.Domain\\PatientService.Domain.csproj|solutionrelative:patientservice.domain\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A3946F-A604-4393-B10D-4CFB64F3D64A}|PatientService.Domain\\PatientService.Domain.csproj|v:\\ham\\hearingcareportal-seniorengineer\\patientservice.domain\\hearingtestresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A3946F-A604-4393-B10D-4CFB64F3D64A}|PatientService.Domain\\PatientService.Domain.csproj|solutionrelative:patientservice.domain\\hearingtestresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "V:\\HAM\\HearingCarePortal-SeniorEngineer\\PatientService.Domain\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "PatientService.Domain\\IPatientRepository.cs",
+              "ToolTip": "V:\\HAM\\HearingCarePortal-SeniorEngineer\\PatientService.Domain\\IPatientRepository.cs",
+              "RelativeToolTip": "PatientService.Domain\\IPatientRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA7wA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:31:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HearingTestResult.cs",
+              "DocumentMoniker": "V:\\HAM\\HearingCarePortal-SeniorEngineer\\PatientService.Domain\\HearingTestResult.cs",
+              "RelativeDocumentMoniker": "PatientService.Domain\\HearingTestResult.cs",
+              "ToolTip": "V:\\HAM\\HearingCarePortal-SeniorEngineer\\PatientService.Domain\\HearingTestResult.cs",
+              "RelativeToolTip": "PatientService.Domain\\HearingTestResult.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwFsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:22:42.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "V:\\HAM\\HearingCarePortal-SeniorEngineer\\PatientService.Domain\\Patient.cs",
+              "RelativeDocumentMoniker": "PatientService.Domain\\Patient.cs",
+              "ToolTip": "V:\\HAM\\HearingCarePortal-SeniorEngineer\\PatientService.Domain\\Patient.cs",
+              "RelativeToolTip": "PatientService.Domain\\Patient.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T05:28:06.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
